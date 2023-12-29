@@ -3,7 +3,7 @@
 </div>
 
 
-# V2ray-Script
+# V2ray-Script x
 
 + v2ray-script package for setting up personal bridge-upstream servers
 + Following the problems of setting up servers with Docker and the problems surrounding its installation, we decided to create an easy install script for setting up multi-stage servers to remove the oppressive embargo and... for Debian, Ubuntu operating systems without the need for Docker and filtering problems. And ban, start your Linux servers with 3 command lines
